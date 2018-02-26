@@ -189,7 +189,7 @@ footer .row {
 	}
 }
 
-@media(min-width: : 980px) {
+@media(min-width: 980px) {
 	img.project-mockup {
 		height: 450px;
 	}
