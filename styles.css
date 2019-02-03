@@ -197,6 +197,10 @@ footer .row {
 	img.project-mockup.hubspot {
 		height: 200px;
 	}
+	img.project-mockup.expensify {
+		width: 450px;
+		height: 350px;
+	}
 }
 @media (max-width: 980px) {
 	article.app-summary {
