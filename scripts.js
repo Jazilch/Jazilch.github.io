@@ -1,0 +1,5 @@
+var images = ['https://cdn2.hubspot.net/hubfs/2676636/Tech%20Logos/awesome-logs-slideshow/awesome-logs-demo.png', 'https://cdn2.hubspot.net/hubfs/2676636/Tech%20Logos/awesome-logs-slideshow/workflow_empty_state.png', 'https://cdn2.hubspot.net/hubfs/2676636/Tech%20Logos/awesome-logs-slideshow/changeHub_Modal.png', 'https://cdn2.hubspot.net/hubfs/2676636/Tech%20Logos/awesome-logs-slideshow/workflow_route.png', 'https://cdn2.hubspot.net/hubfs/2676636/Tech%20Logos/awesome-logs-slideshow/revision_modal_selected.png', 'https://cdn2.hubspot.net/hubfs/2676636/Tech%20Logos/awesome-logs-slideshow/revision_modal.png', 'https://cdn2.hubspot.net/hubfs/2676636/Tech%20Logos/awesome-logs-slideshow/Diff_view.png', 'https://cdn2.hubspot.net/hubfs/2676636/Tech%20Logos/awesome-logs-slideshow/diff_view_json_dict.png'];
+
+$('#lightbox').slickLightbox({
+  images,
+});
